@@ -1,6 +1,6 @@
 ```
-📣 This account is for information and example software projects from my professional career.
-👉 For my account that holds personal software projects, please contact me using the email below.
+📣 This account is for example software projects from my professional career.
+👉 For my account that holds personal projects, contact me using the email below.
 ```
 ## About Me:
 My passion is to help integrate clean, efficient, and scalable software to produce the best solution possible!
@@ -14,10 +14,7 @@ I have over six years of experience leading, developing, and implementing innova
 - 📧 **Contact:** [Lucas.Kelley.Kieffer@Gmail.com](mailto:Lucas.Kelley.Kieffer@gmail.com)
 
 
-### Daily Skills:
-
-
-
+## Daily Skills:
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216656858-744795ef-6e18-4c46-be2d-2e14de10be1b.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216654774-27cd4bb1-cb14-4ac0-b665-da5ef7f53154.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216653051-1f19a492-def2-49e0-b280-9c0ed80d8ebd.png"></code>
