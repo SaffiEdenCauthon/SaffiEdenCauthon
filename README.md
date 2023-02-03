@@ -1,5 +1,5 @@
 ```
-📣 This account is for example software projects from my professional career.
+📣 This account is for (example) software projects from my professional career.
 👉 For my account that holds personal projects, contact me using the email below.
 ```
 ## About Me:
@@ -13,7 +13,6 @@ I have over six years of experience leading, developing, and implementing innova
 - 🎮 **Personal Hobbies:** Retro Games, Pokémon VGC, Old School Runescape
 - 📧 **Contact:** [Lucas.Kelley.Kieffer@Gmail.com](mailto:Lucas.Kelley.Kieffer@gmail.com)
 
-
 ## Daily Skills:
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216656858-744795ef-6e18-4c46-be2d-2e14de10be1b.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216654774-27cd4bb1-cb14-4ac0-b665-da5ef7f53154.png"></code>
@@ -23,6 +22,7 @@ I have over six years of experience leading, developing, and implementing innova
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216654125-47801089-f477-4a08-b053-0c5baf22493b.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
+<code><img height="35" src="https://user-images.githubusercontent.com/25491843/216659305-2646734a-89c7-4c99-8f91-ad806157c75a.svg"></code>
 
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216652753-b706c2f2-b315-458d-b61b-7d897b32f4b0.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216655808-fd200b80-78e2-4a01-ac0f-d97b7b4e0a45.png"></code>
@@ -31,4 +31,3 @@ I have over six years of experience leading, developing, and implementing innova
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216658246-49ef9858-bac1-424a-86be-e21dab7c7e64.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216652581-86ee19c8-d1ea-4e76-95a6-ea729f24d5a2.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
