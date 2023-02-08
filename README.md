@@ -20,7 +20,7 @@ My passion is to help integrate clean, efficient, and scalable software to produ
 
 I have over six years of experience leading, developing, and implementing innovative software applications for company success.
 
-- 👨🏽‍💻 **Working On Designing:** Industrial Control Solutions at [OPS Controls](https://github.com/OPSControls)
+- 👩‍💻 **Working On Designing:** Industrial Control Solutions at [OPS Controls](https://github.com/OPSControls)
 - 🌱 **Currently Learning:** Furthering <code>IEC 61131-3</code> & <code>C++</code> Mastery
 - 💬 **Ask Me About:** PLCs, Embedded Systems, Full-stack Development
 - 🎮 **Personal Hobbies:** Retro Games, Pokémon VGC, Old School Runescape
