@@ -2,6 +2,19 @@
 📣 This account is for (example) software projects from my professional career.
 👉 For my account that holds personal projects, contact me using the email below.
 ```
+
+***
+
+## My Website
+👉 Please visit [my website](https://lucaskelleykieffer.github.io/) for:
+- 👋 Further information about me
+- 👩‍💻 A showcase of work projects
+- 🎲 A showcase of fun projects (coming soon!)
+- 📜 My most recent Resume/CV!
+- 📝 Comments, questions, or snobby remarks about my work!
+
+***
+
 ## About Me:
 My passion is to help integrate clean, efficient, and scalable software to produce the best solution possible!
 
@@ -12,6 +25,8 @@ I have over six years of experience leading, developing, and implementing innova
 - 💬 **Ask Me About:** PLCs, Embedded Systems, Full-stack Development
 - 🎮 **Personal Hobbies:** Retro Games, Pokémon VGC, Old School Runescape
 - 📧 **Contact:** [Lucas.Kelley.Kieffer@Gmail.com](mailto:Lucas.Kelley.Kieffer@gmail.com)
+
+***
 
 ## Daily Skills:
 <code><img height="35" src="https://user-images.githubusercontent.com/25491843/216656858-744795ef-6e18-4c46-be2d-2e14de10be1b.png"></code>
