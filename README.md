@@ -6,7 +6,7 @@
 ***
 
 ## My Website
-👉 Please visit [my website](https://lucaskelleykieffer.github.io/) for:
+👉 Please visit [my website](https://saffikelleykieffer.github.io/) for:
 - 👋 Further information about me
 - 👩‍💻 A showcase of work projects
 - 🎲 A showcase of fun projects (coming soon!)
@@ -24,7 +24,7 @@ I have over six years of experience leading, developing, and implementing innova
 - 🌱 **Currently Learning:** Furthering <code>IEC 61131-3</code> & <code>C++</code> Mastery
 - 💬 **Ask Me About:** PLCs, Embedded Systems, Full-stack Development
 - 🎮 **Personal Hobbies:** Retro Games, Pokémon VGC, Old School Runescape
-- 📧 **Contact:** [Lucas.Kelley.Kieffer@Gmail.com](mailto:Lucas.Kelley.Kieffer@gmail.com)
+- 📧 **Contact:** [Saffi.Kelley.Kieffer@Gmail.com](mailto:Saffi.Kelley.Kieffer@gmail.com)
 
 ***
 
