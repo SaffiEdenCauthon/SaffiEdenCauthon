@@ -6,7 +6,7 @@
 ***
 
 ## My Website
-👉 Please visit [my website](https://saffikelleykieffer.github.io/) for:
+👉 Please visit [my website](https://saffiedencauthon.github.io/) for:
 - 👋 Further information about me
 - 👩‍💻 A showcase of work projects
 - 🎲 A showcase of fun projects (coming soon!)
@@ -23,8 +23,8 @@ I have over seven years of experience leading, developing, and implementing inno
 - 👩‍💻 **Working On Designing:** Industrial Control Solutions at [OPS Controls](https://github.com/OPSControls)
 - 🌱 **Currently Learning:** Furthering <code>IEC 61131-3</code> & <code>C++</code> Mastery
 - 💬 **Ask Me About:** PLCs, Embedded Systems, Full-stack Development
-- 🎮 **Personal Hobbies:** Retro Games, Pokémon VGC, Old School Runescape
-- 📧 **Contact:** [Saffi.Kelley.Kieffer@Gmail.com](mailto:Saffi.Kelley.Kieffer@gmail.com)
+- 🎮 **Personal Hobbies:** Retro Games, Pokémon GO & VGC, Old School Runescape
+- 📧 **Contact:** [saffi.cauthon@gmail.com](mailto:saffi.cauthon@gmail.com)
 
 ***
 
