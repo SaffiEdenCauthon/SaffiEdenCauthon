@@ -18,7 +18,7 @@
 ## About Me:
 My passion is to help integrate clean, efficient, and scalable software to produce the best solution possible!
 
-I have over seven years of experience leading, developing, and implementing innovative software applications for company success.
+I have over eight years of experience leading, developing, and implementing innovative software applications for company success.
 
 - 👩‍💻 **Working On Designing:** Industrial Control Solutions at [OPS Controls](https://github.com/OPSControls)
 - 🌱 **Currently Learning:** Furthering <code>IEC 61131-3</code> & <code>C++</code> Mastery
